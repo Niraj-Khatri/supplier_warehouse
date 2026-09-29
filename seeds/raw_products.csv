@@ -1,0 +1,61 @@
+product_id,supplier_id,product_name,category,unit_cost
+PRD-2001,SUP-1010,Produce Item 001,Dairy,30.71
+PRD-2002,SUP-1010,Produce Item 002,Beverage,28.6
+PRD-2003,SUP-1001,Dairy Item 003,Produce,27.25
+PRD-2004,SUP-1003,Frozen Item 004,Dry Goods,7.95
+PRD-2005,SUP-1002,Beverage Item 005,Frozen,27.42
+PRD-2006,SUP-1011,Dairy Item 006,Produce,28.42
+PRD-2007,SUP-1011,Dairy Item 007,Frozen,5.76
+PRD-2008,SUP-1002,Beverage Item 008,Produce,30.17
+PRD-2009,SUP-1008,Beverage Item 009,Dry Goods,37.57
+PRD-2010,SUP-1008,Beverage Item 010,Dry Goods,18.12
+PRD-2011,SUP-1004,Dairy Item 011,Dairy,5.03
+PRD-2012,SUP-1005,Beverage Item 012,Dry Goods,42.16
+PRD-2013,SUP-1008,Frozen Item 013,Beverage,
+PRD-2014,SUP-1002,Produce Item 014,Beverage,20.77
+PRD-2015,SUP-1006,Dairy Item 015,Dry Goods,20.94
+PRD-2016,SUP-1011,Produce Item 016,Beverage,28.02
+PRD-2017,SUP-9348,Frozen Item 017,Beverage,24.44
+PRD-2018,SUP-1008,Produce Item 018,Produce,45.41
+PRD-2019,SUP-1008,Produce Item 019,Produce,35.42
+PRD-2020,SUP-1005,Beverage Item 020,Dry Goods,14.52
+PRD-2021,SUP-1007,Frozen Item 021,Produce,45.22
+PRD-2022,SUP-1006,Dairy Item 022,Beverage,6.68
+PRD-2023,SUP-1001,Dairy Item 023,Frozen,7.25
+PRD-2024,SUP-1004,Dry Goods Item 024,Dry Goods,44.11
+PRD-2025,SUP-1008,Produce Item 025,Dairy,22.22
+PRD-2026,SUP-1009,Frozen Item 026,Dairy,
+PRD-2027,SUP-1007,Beverage Item 027,Frozen,34.26
+PRD-2028,SUP-1006,Dry Goods Item 028,Dairy,8.26
+PRD-2029,SUP-1003,Dairy Item 029,Dairy,32.02
+PRD-2030,SUP-1001,Dry Goods Item 030,Beverage,9.73
+PRD-2031,SUP-1005,Produce Item 031,Dairy,20.81
+PRD-2032,SUP-1006,Beverage Item 032,Beverage,16.11
+PRD-2033,SUP-1003,Beverage Item 033,Beverage,31.85
+PRD-2034,SUP-9467,Beverage Item 034,Dry Goods,19.83
+PRD-2035,SUP-1007,Produce Item 035,Dry Goods,30.88
+PRD-2036,SUP-1001,Dairy Item 036,Produce,47.28
+PRD-2037,SUP-1008,Dairy Item 037,Produce,17.11
+PRD-2038,SUP-1001,Produce Item 038,Produce,27.73
+PRD-2039,SUP-1009,Produce Item 039,Frozen,
+PRD-2040,SUP-1010,Produce Item 040,Produce,42.12
+PRD-2041,SUP-1010,Dry Goods Item 041,Dairy,30.89
+PRD-2042,SUP-1006,Beverage Item 042,Frozen,23.39
+PRD-2043,SUP-1002,Dry Goods Item 043,Dry Goods,23.68
+PRD-2044,SUP-1005,Produce Item 044,Dairy,5.98
+PRD-2045,SUP-1006,Frozen Item 045,Dry Goods,39.99
+PRD-2046,SUP-1003,Beverage Item 046,Produce,10.8
+PRD-2047,SUP-1009,Frozen Item 047,Dairy,33.5
+PRD-2048,SUP-1001,Beverage Item 048,Frozen,46.99
+PRD-2049,SUP-1002,Frozen Item 049,Beverage,18.36
+PRD-2050,SUP-1003,Frozen Item 050,Dairy,26.13
+PRD-2051,SUP-9337,Dairy Item 051,Beverage,39.18
+PRD-2052,SUP-1004,Dairy Item 052,Dry Goods,
+PRD-2053,SUP-1004,Dairy Item 053,Beverage,24.26
+PRD-2054,SUP-1001,Produce Item 054,Frozen,23.3
+PRD-2055,SUP-1004,Beverage Item 055,Frozen,22.13
+PRD-2056,SUP-1006,Frozen Item 056,Produce,11.52
+PRD-2057,SUP-1004,Dry Goods Item 057,Dairy,17.01
+PRD-2058,SUP-1008,Beverage Item 058,Beverage,40.53
+PRD-2059,SUP-1008,Frozen Item 059,Produce,40.26
+PRD-2060,SUP-1002,Dry Goods Item 060,Dairy,23.57

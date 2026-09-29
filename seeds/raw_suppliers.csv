@@ -1,0 +1,12 @@
+supplier_id,supplier_name,region,status,created_at
+SUP-1001,Harvest Foods,Midwest,active,2024-02-09
+SUP-1002,Cedar Valley Farms,North,Active,2025-04-20
+SUP-1003,Northgate Dairy,,Active,2024-01-10
+SUP-1004,Blue Ridge Beverage,,Active,2024-06-03
+SUP-1005,Summit Provisions,South,Active,2023-03-30
+SUP-1006,Oakline Distributors,West,Inactive,2023-03-13
+SUP-1007,Riverbend Organics,South,Active,2024-07-18
+SUP-1008,Pinecrest Mills,West,Active,2025-04-26
+SUP-1009,  harvest foods ,North,Active,2023-04-02
+SUP-1010,CEDAR VALLEY FARMS,,active,2024-02-11
+SUP-1011,Northgate Dairy,Midwest,Inactive,2023-09-30
